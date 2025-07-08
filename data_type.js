@@ -1,6 +1,6 @@
 const a = true, b = 1, c = 'Hello'
 
-console.log(a, typeof a) //불리언, 맞다 아니다 표현 true, false
+console.log(a, typeof a) //불리언, 맞다 아니다 표현 true, false.
 console.log(b, typeof b) //number, 숫자 자료형
 console.log(c, typeof c) //문자열 string
 
