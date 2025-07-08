@@ -4,7 +4,7 @@ let word2 = 'Hi'
 console.log(word, word2)
 
 word = '작은 따옴표 안에 "큰 따옴표" 사용'
-word2 = "큰 따옴표 안에 '작은 따옴표' 사용"
+word2 = "큰 따옴표 안에 '작은 따옴표' 사용" //둘 다 가능
 console.log(word, word2)
 
 word = "큰 따옴표 안에 \"큰 따옴표\" 사용"
